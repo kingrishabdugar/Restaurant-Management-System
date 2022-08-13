@@ -1,4 +1,4 @@
-<h2 align="center"> 📌🆕 Update 2022 : Check out the Latest Version here <br> <a href="https://github.com/kingrishabdugar/Green-Leaf-Gourmet">🍃Green-Leaf-Gourmet🍃</a></h2>
+<h2 align="center"> 🆕 Update 2022 : Check out the Latest Version here <br> <a href="https://github.com/kingrishabdugar/Green-Leaf-Gourmet">🍃Green-Leaf-Gourmet🍃</a></h2>
 <h2 align="center">🍽️ What's new ⚙️</h2>
 
 * *Fresh New User Interface with separate sections for Ordering, viewing, editing & deleting categories & products, user details etc*
