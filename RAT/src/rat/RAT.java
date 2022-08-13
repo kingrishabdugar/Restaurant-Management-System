@@ -14,13 +14,13 @@ import rat.resources.*;
 
 /**
  *
- * @author kingr
+ * @author kingrishabdugar
  */
 public class RAT {
     public static void main(String[] args) {
            
          
-              /* Staff s1=new Staff("Manager",35,75000.0);
+        Staff s1=new Staff("Manager",35,75000.0);
         s1.setSalary(100000.0);
         s1.DisplayDetails();
         MenuItem m1=new MenuItem("CBiryani",300.0,4,3,3,2);
